@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to Anuvansh's GitHub Profile! 👋
 
-<!--
-**anuvansh99/anuvansh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! Welcome to my GitHub profile. I'm Anuvansh Gundev, a Full-Stack Web Developer. Here you'll find a collection of my projects, contributions, and explorations.
 
-Here are some ideas to get you started:
+## About Me ℹ️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I'm currently learning **AI/ML**.
+- 📫 You can reach me at anuvansh.gbs@gmail.com
+
+## Skills 🔧
+
+- Programming Languages: C/C++, HTML, CSS, Javascript, Python
+- Technologies: MongoDB, Express.js, React.js, Node.js
+- Tools: Firebase, Postman, Insomnia, Git-Hub
+
+## Connect with Me 🌐
+
+- [LinkedIn] (https://in.linkedin.com/in/anuvansh-gundev-11ab86256)
+- [Instagram] (https://www.instagram.com/anuvanshgundev/)
